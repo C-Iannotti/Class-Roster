@@ -1,0 +1,2 @@
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\Debug\ConnerIannottiClassRosterProject.exe
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\Debug\ConnerIannottiClassRosterProject.pdb

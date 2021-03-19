@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\main.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+  roster.cpp
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudioProjects\ConnerIannottiClassRosterProject\roster.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  ConnerIannottiClassRosterProject.vcxproj -> D:\VisualStudioProjects\ConnerIannottiClassRosterProject\Debug\ConnerIannottiClassRosterProject.exe
